@@ -2,3 +2,5 @@ this is mahendi  designs
 1.arabic.
 2.gujrati.
 3.rajavadi
+4.rajasthani.
+5.Traditional.
